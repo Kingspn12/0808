@@ -1,11 +1,9 @@
 from os import environ
 import os
 import time
-from urllib.request import urlopen
 from urllib.parse import urlparse
 import aiohttp
 from pyrogram import Client, filters
-from pyshorteners 
 from bs4 import BeautifulSoup
 from doodstream import DoodStream
 import requests
