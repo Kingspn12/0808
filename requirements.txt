@@ -1,0 +1,7 @@
+pyrogram
+requests
+aiohttp
+click
+os
+sys
+
